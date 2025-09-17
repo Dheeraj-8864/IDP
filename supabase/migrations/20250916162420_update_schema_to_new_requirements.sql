@@ -1,0 +1,2 @@
+-- Migration to update schema to new requirements
+-- This migration transforms t
